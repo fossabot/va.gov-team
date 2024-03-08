@@ -1,4 +1,6 @@
 # VA.gov Team Repository
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fryanlink%2Fva.gov-team.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fryanlink%2Fva.gov-team?ref=badge_shield)
+
 
 This project aims to improve the lives of Veterans, their families, and their caregivers by facilitating the creation of interactive experiences on VA.gov on par with the private sector. It's comprised of a platform (the Veteran-facing Services Platform, aka VSP) which serves as the common framework for building cohesive products on VA.gov, and the VA.gov products themselves (the Veteran Facing Services, aka VFSs).
 
@@ -22,3 +24,7 @@ All VFSs (aka VA.gov features and products)
 
 ### [/teams](./teams)
 Internal resources for all teams currently building on or in support of VA.gov.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fryanlink%2Fva.gov-team.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fryanlink%2Fva.gov-team?ref=badge_large)
